@@ -6,3 +6,5 @@
 - Created landing page documentation
 
 - Updated README with deployment instructions
+
+- Documented sorting visualizer architecture
