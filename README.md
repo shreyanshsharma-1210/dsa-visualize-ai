@@ -14,3 +14,5 @@
 - Initialized DSA Visualizer repository
 
 - Completed MVP documentation
+
+- Added array animation workflow notes
