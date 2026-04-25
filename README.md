@@ -8,3 +8,5 @@
 - Updated README with deployment instructions
 
 - Documented sorting visualizer architecture
+
+- Added UI interaction and controls guide
