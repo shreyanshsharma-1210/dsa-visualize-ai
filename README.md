@@ -4,3 +4,5 @@
 - Prepared search algorithm visualization plan
 
 - Created landing page documentation
+
+- Updated README with deployment instructions
