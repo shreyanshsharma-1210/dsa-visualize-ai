@@ -12,3 +12,5 @@
 - Added UI interaction and controls guide
 
 - Initialized DSA Visualizer repository
+
+- Completed MVP documentation
